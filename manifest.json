@@ -1,0 +1,40 @@
+{
+	"name": "BNF Press Hub",
+	"short_name": "HackerWeb",
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "#fff",
+	"description": "A readable Hacker News app.",
+	"icons": [
+	  {
+		"src": "favicon.ico",
+		"sizes": "512x512"
+	  },
+	  {
+		"src": "logos/arretsurimages.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	  },
+	  {
+		"src": "logos/europresse.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	  },
+	  {
+		"src": "logos/liberation.webp",
+		"sizes": "512x512",
+		"type": "image/webp"
+	  },
+	  {
+		"src": "logos/mediapart.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	  },
+	  {
+		"src": "logos/press.reader.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	  }
+	]
+  }
+  

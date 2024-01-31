@@ -4,7 +4,7 @@
 	"start_url": ".",
 	"display": "standalone",
 	"background_color": "#fff",
-	"description": "A readable Hacker News app.",
+	"description": "BNF press link hub",
 	"icons": [
 	  {
 		"src": "favicon.ico",
